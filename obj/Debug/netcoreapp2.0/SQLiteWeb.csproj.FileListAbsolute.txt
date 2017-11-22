@@ -1,0 +1,12 @@
+C:\Users\Pkao\source\repos\SQLiteWeb\bin\Debug\netcoreapp2.0\SQLiteWeb.deps.json
+C:\Users\Pkao\source\repos\SQLiteWeb\bin\Debug\netcoreapp2.0\SQLiteWeb.runtimeconfig.json
+C:\Users\Pkao\source\repos\SQLiteWeb\bin\Debug\netcoreapp2.0\SQLiteWeb.runtimeconfig.dev.json
+C:\Users\Pkao\source\repos\SQLiteWeb\bin\Debug\netcoreapp2.0\SQLiteWeb.dll
+C:\Users\Pkao\source\repos\SQLiteWeb\bin\Debug\netcoreapp2.0\SQLiteWeb.pdb
+C:\Users\Pkao\source\repos\SQLiteWeb\obj\Debug\netcoreapp2.0\SQLiteWeb.csprojResolveAssemblyReference.cache
+C:\Users\Pkao\source\repos\SQLiteWeb\obj\Debug\netcoreapp2.0\SQLiteWeb.csproj.CoreCompileInputs.cache
+C:\Users\Pkao\source\repos\SQLiteWeb\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Pkao\source\repos\SQLiteWeb\obj\Debug\netcoreapp2.0\SQLiteWeb.AssemblyInfoInputs.cache
+C:\Users\Pkao\source\repos\SQLiteWeb\obj\Debug\netcoreapp2.0\SQLiteWeb.AssemblyInfo.cs
+C:\Users\Pkao\source\repos\SQLiteWeb\obj\Debug\netcoreapp2.0\SQLiteWeb.dll
+C:\Users\Pkao\source\repos\SQLiteWeb\obj\Debug\netcoreapp2.0\SQLiteWeb.pdb
